@@ -1,0 +1,493 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                            String           @id @default(cuid())
+  name                          String
+  email                         String           @unique
+  username                      String?          @unique
+  passwordHash                  String
+  avatarUrl                     String?
+  twoFactorEnabled              Boolean          @default(false)
+  receiveCommentNotifications   Boolean          @default(true)
+  receiveMentionNotifications   Boolean          @default(true)
+  followNewScriptsByDefault     Boolean          @default(true)
+  followNewStoryboardsByDefault Boolean          @default(true)
+  notifyEmailComments           Boolean          @default(true)
+  notifyEmailMentions           Boolean          @default(true)
+  notifyEmailStatusChanges      Boolean          @default(true)
+  notifyInAppAll                Boolean          @default(true)
+  aiImageModel                  String           @default("core")
+  activeTeamId                  String?
+  createdAt                     DateTime         @default(now())
+  updatedAt                     DateTime         @updatedAt
+
+  memberships                   TeamMembership[]
+  createdInvites                InvitationCode[] @relation("InviteCreator")
+  redeemedInvites               InvitationCode[] @relation("InviteRedeemer")
+  revokedInvites                InvitationCode[] @relation("InviteRevoker")
+  comments                      Comment[]
+  notifications                 Notification[]
+  auditLogs                     AuditLog[]
+  apiKeys                       ApiKey[]
+}
+
+model Team {
+  id                      String               @id @default(cuid())
+  hashId                  String               @unique
+  name                    String
+  logoUrl                 String?
+  planName                String               @default("Free")
+  planSlug                String               @default("v2026_free")
+  customDomain            String?
+  slackWebhookUrl         String?
+  brandDarkMode           Boolean              @default(false)
+  customFooterText        String?
+  billingEmail            String?
+  billingDetails          String?
+  aiTokenBalance          Int                  @default(8)
+  aiCreditsRemaining      Int                  @default(30)
+  aiCreditsTotal          Int                  @default(30)
+  sharedInviteToken       String               @default(uuid())
+  isSharedInviteEnabled   Boolean              @default(true)
+  createdAt               DateTime             @default(now())
+  updatedAt               DateTime             @updatedAt
+
+  memberships             TeamMembership[]
+  invitationCodes         InvitationCode[]
+  statuses                WorkflowStatus[]
+  templates               StoryboardTemplate[]
+  projects                Project[]
+  storyboards             Storyboard[]
+  scripts                 Script[]
+  assetFolders            AssetFolder[]
+  libraryAssets           LibraryAsset[]
+  comments                Comment[]
+  notifications           Notification[]
+  apiKeys                 ApiKey[]
+  webhooks                WebhookEndpoint[]
+  auditLogs               AuditLog[]
+}
+
+model TeamMembership {
+  id                   String    @id @default(cuid())
+  teamId               String
+  userId               String
+  role                 String    @default("MEMBER") // OWNER | ADMIN | CREATOR | MEMBER | REVIEWER
+  canAccessAllProjects Boolean   @default(true)
+  projectIdsJson       String    @default("[]")
+  revokedAt            DateTime?
+  createdAt            DateTime  @default(now())
+  updatedAt            DateTime  @updatedAt
+
+  team                 Team      @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  user                 User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([teamId, userId])
+  @@index([userId])
+}
+
+model InvitationCode {
+  id               String    @id @default(cuid())
+  code             String    @unique
+  teamId           String
+  email            String?
+  role             String    @default("MEMBER") // ADMIN | CREATOR | MEMBER | REVIEWER
+  maxUses          Int       @default(1)
+  usedCount        Int       @default(0)
+  expiresAt        DateTime
+  revokedAt        DateTime?
+  revokedById      String?
+  createdById      String
+  redeemedByUserId String?
+  redeemedAt       DateTime?
+  projectIdsJson   String    @default("[]")
+  note             String?
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+
+  team             Team      @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  createdBy        User      @relation("InviteCreator", fields: [createdById], references: [id], onDelete: Cascade)
+  redeemedBy       User?     @relation("InviteRedeemer", fields: [redeemedByUserId], references: [id], onDelete: SetNull)
+  revokedBy        User?     @relation("InviteRevoker", fields: [revokedById], references: [id], onDelete: SetNull)
+
+  @@index([teamId])
+  @@index([code])
+}
+
+model WorkflowStatus {
+  id          String   @id @default(cuid())
+  teamId      String
+  name        String
+  category    String   @default("draft") // draft | in_progress | review_needed | changes_required | approved
+  description String   @default("")
+  color       String   @default("#3B82F6")
+  position    Int      @default(0)
+  isDefault   Boolean  @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  team        Team     @relation(fields: [teamId], references: [id], onDelete: Cascade)
+
+  @@index([teamId])
+}
+
+model StoryboardTemplate {
+  id                            String   @id @default(cuid())
+  teamId                        String
+  name                          String
+  aspectRatio                   String   @default("16:9")
+  frameNumberFormat             String   @default("1, 2, 3")
+  frameCount                    Int      @default(6)
+  fieldsJson                    String   @default("[]")
+  hasComments                   Boolean  @default(true)
+  hasPassword                   Boolean  @default(false)
+  allowCommentsInOldVersions    Boolean  @default(false)
+  shareWithVersionNumber        Boolean  @default(false)
+  shareWithVersionSwitching     Boolean  @default(false)
+  shareWithVersionNotification  Boolean  @default(true)
+  shareWithStatusUpdates        Boolean  @default(false)
+  createdAt                     DateTime @default(now())
+  updatedAt                     DateTime @updatedAt
+
+  team                          Team     @relation(fields: [teamId], references: [id], onDelete: Cascade)
+
+  @@index([teamId])
+}
+
+model Project {
+  id                    String       @id @default(cuid())
+  hashId                String?
+  teamId                String
+  parentId              String?
+  createdById           String?
+  name                  String
+  slug                  String       @unique
+  description           String?
+  isArchived            Boolean      @default(false)
+  isShared              Boolean      @default(true)
+  isStarred             Boolean      @default(false)
+  watchInApp            Boolean      @default(false)
+  emailForComments      Boolean      @default(false)
+  shareSlug             String       @unique
+  shareEnabled          Boolean      @default(true)
+  shareWithDescription  Boolean      @default(false)
+  shareWithSubProjects  Boolean      @default(true)
+  shareWithPassword     Boolean      @default(false)
+  sharePassword         String?
+  shareExpiresAt        DateTime?
+  templateId            String?
+  archivedAt            DateTime?
+  createdAt             DateTime     @default(now())
+  updatedAt             DateTime     @updatedAt
+
+  team                  Team         @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  parent                Project?     @relation("SubProjects", fields: [parentId], references: [id], onDelete: SetNull)
+  subProjects           Project[]    @relation("SubProjects")
+  storyboards           Storyboard[]
+  scripts               Script[]
+
+  @@index([teamId])
+  @@index([parentId])
+}
+
+model Storyboard {
+  id                         String            @id @default(cuid())
+  hashId                     String?
+  teamId                     String
+  projectId                  String?
+  createdById                String?
+  title                      String            @default("Untitled Storyboard")
+  name                       String            @default("Untitled Storyboard")
+  slug                       String            @unique
+  shortSlug                  String            @unique
+  aspectRatio                String            @default("16:9")
+  frameNumberFormat          String            @default("1, 2, 3")
+  version                    Int               @default(1)
+  versionNumber              Int               @default(1)
+  versionsJson               String            @default("[]")
+  status                     String            @default("Draft")
+  statusCategory             String            @default("draft")
+  statusLabel                String            @default("Draft")
+  teamStatusId               String?
+  fieldsJson                 String            @default("[]")
+  isArchived                 Boolean           @default(false)
+  isShared                   Boolean           @default(true)
+  shareEnabled               Boolean           @default(true)
+  sharePassword              String?
+  sharePassphrase            String?
+  allowComments              Boolean           @default(true)
+  hideCompletedComments      Boolean           @default(true)
+  allowCommentsInOldVersions Boolean           @default(false)
+  shareWithVersionNumber     Boolean           @default(false)
+  shareAsGrid                Boolean           @default(false)
+  shareAnimatic              Boolean           @default(true)
+  showImageBorder            Boolean           @default(false)
+  showFrameNumbers           Boolean           @default(true)
+  showVoiceover              Boolean           @default(true)
+  showAction                 Boolean           @default(true)
+  showCamera                 Boolean           @default(true)
+  showNotes                  Boolean           @default(true)
+  showLabelText              Boolean           @default(true)
+  showIcons                  Boolean           @default(true)
+  showFrameStatus            Boolean           @default(false)
+  showStatusPill             Boolean           @default(false)
+  wordCountDisplay           String            @default("off")
+  agentChatJson              String            @default("[]")
+  archivedAt                 DateTime?
+  createdAt                  DateTime          @default(now())
+  updatedAt                  DateTime          @updatedAt
+
+  team                       Team              @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  project                    Project?          @relation(fields: [projectId], references: [id], onDelete: SetNull)
+  frames                     StoryboardFrame[]
+  comments                   Comment[]
+
+  @@index([teamId])
+  @@index([projectId])
+}
+
+model StoryboardFrame {
+  id              String     @id @default(cuid())
+  storyboardId    String
+  position        Int        @default(0)
+  label           String?    @default("")
+  shotType        String     @default("Medium Shot")
+  aspectRatio     String     @default("16:9")
+  duration        Float      @default(3.0)
+  durationSec     Float      @default(3.0)
+  imageUrl        String?
+  imagePrompt     String?
+  imageStyle      String     @default("sketch")
+  sketchDataUrl   String?
+  voiceoverText   String     @default("")
+  soundText       String     @default("")
+  actionText      String     @default("")
+  cameraNotes     String     @default("")
+  cameraText      String     @default("")
+  productionNotes String     @default("")
+  notesText       String     @default("")
+  promptText      String     @default("")
+  stylePreset     String     @default("Sketch")
+  frameStatus     String     @default("none")
+  audioUrl        String?
+  annotationsJson String     @default("")
+  cropJson        String     @default("")
+  mentionedAssets String     @default("[]")
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+
+  storyboard      Storyboard @relation(fields: [storyboardId], references: [id], onDelete: Cascade)
+  comments        Comment[]
+
+  @@index([storyboardId, position])
+}
+
+model Script {
+  id                             String        @id @default(cuid())
+  hashId                         String?
+  teamId                         String
+  projectId                      String?
+  createdById                    String?
+  title                          String        @default("Untitled Script")
+  name                           String        @default("Untitled Script")
+  slug                           String        @unique
+  shortSlug                      String        @unique
+  mode                           String        @default("UNSELECTED")
+  scriptType                     String        @default("av") // av | blank
+  blankContent                   String        @default("")
+  freeformContent                String        @default("")
+  wordsPerMinute                 Int           @default(130)
+  wpm                            Int           @default(130)
+  versionNumber                  Int           @default(1)
+  status                         String        @default("Draft")
+  statusCategory                 String        @default("draft")
+  statusLabel                    String        @default("Draft")
+  teamStatusId                   String?
+  isArchived                     Boolean       @default(false)
+  isShared                       Boolean       @default(true)
+  sharePassword                  String?
+  sharePassphrase                String?
+  allowComments                  Boolean       @default(true)
+  hideCompletedCommentsPresent   Boolean       @default(false)
+  allowCommentsInOldVersions     Boolean       @default(true)
+  shareWithVersionNumber         Boolean       @default(true)
+  shareWithVersionSwitching      Boolean       @default(false)
+  shareWithVersionNotification   Boolean       @default(false)
+  allowGuestDownloads            Boolean       @default(false)
+  showWordCount                  Boolean       @default(false)
+  hideCompletedCommentsEdit      Boolean       @default(false)
+  isSendingCommentEmails         Boolean       @default(true)
+  archivedAt                     DateTime?
+  createdAt                      DateTime      @default(now())
+  updatedAt                      DateTime      @updatedAt
+
+  team                           Team          @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  project                        Project?      @relation(fields: [projectId], references: [id], onDelete: SetNull)
+  scenes                         ScriptScene[]
+  comments                       Comment[]
+
+  @@index([teamId])
+  @@index([projectId])
+}
+
+model ScriptScene {
+  id         String   @id @default(cuid())
+  scriptId   String
+  position   Int      @default(0)
+  sceneTitle String   @default("Scene 1")
+  audioText  String   @default("")
+  visualText String   @default("")
+  notesText  String   @default("")
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  script     Script   @relation(fields: [scriptId], references: [id], onDelete: Cascade)
+
+  @@index([scriptId, position])
+}
+
+model AssetFolder {
+  id        String         @id @default(cuid())
+  teamId    String
+  name      String
+  position  Int            @default(0)
+  createdAt DateTime       @default(now())
+  updatedAt DateTime       @updatedAt
+
+  team      Team           @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  assets    LibraryAsset[]
+
+  @@index([teamId])
+}
+
+model LibraryAsset {
+  id            String       @id @default(cuid())
+  teamId        String
+  folderId      String?
+  name          String       @default("")
+  mentionName   String       @default("")
+  category      String       @default("character")
+  prompt        String?
+  isStarter     Boolean      @default(false)
+  filename      String       @default("")
+  mentionHandle String       @default("")
+  alt           String       @default("")
+  imageUrl      String
+  thumbnailUrl  String       @default("")
+  assetType     String       @default("default")
+  position      Int          @default(0)
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+
+  team          Team         @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  folder        AssetFolder? @relation(fields: [folderId], references: [id], onDelete: SetNull)
+
+  @@index([teamId])
+  @@index([folderId])
+}
+
+model Comment {
+  id                String           @id @default(cuid())
+  teamId            String
+  storyboardId      String?
+  frameId           String?
+  scriptId          String?
+  sceneId           String?
+  authorId          String?
+  guestName         String?
+  guestEmail        String?
+  body              String
+  visibility        String           @default("everyone") // everyone | team
+  isResolved        Boolean          @default(false)
+  isCompleted       Boolean          @default(false)
+  annotationDataUrl String?
+  versionNumber     Int              @default(1)
+  createdAt         DateTime         @default(now())
+  updatedAt         DateTime         @updatedAt
+
+  team              Team             @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  storyboard        Storyboard?      @relation(fields: [storyboardId], references: [id], onDelete: Cascade)
+  frame             StoryboardFrame? @relation(fields: [frameId], references: [id], onDelete: Cascade)
+  script            Script?          @relation(fields: [scriptId], references: [id], onDelete: Cascade)
+  author            User?            @relation(fields: [authorId], references: [id], onDelete: SetNull)
+
+  @@index([storyboardId])
+  @@index([frameId])
+  @@index([scriptId])
+}
+
+model Notification {
+  id        String   @id @default(cuid())
+  userId    String
+  teamId    String
+  title     String
+  message   String   @default("")
+  body      String   @default("")
+  linkUrl   String?
+  isRead    Boolean  @default(false)
+  status    String   @default("unread") // unread | read | archived
+  createdAt DateTime @default(now())
+
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  team      Team     @relation(fields: [teamId], references: [id], onDelete: Cascade)
+
+  @@index([userId, status])
+}
+
+model ApiKey {
+  id          String    @id @default(cuid())
+  teamId      String
+  name        String
+  keyPrefix   String
+  keyHash     String    @unique
+  createdById String?
+  lastUsedAt  DateTime?
+  revokedAt   DateTime?
+  createdAt   DateTime  @default(now())
+
+  team        Team      @relation(fields: [teamId], references: [id], onDelete: Cascade)
+  createdBy   User?     @relation(fields: [createdById], references: [id], onDelete: SetNull)
+
+  @@index([teamId])
+}
+
+model WebhookEndpoint {
+  id         String   @id @default(cuid())
+  teamId     String
+  url        String
+  eventsJson String   @default("[]")
+  secret     String
+  isActive   Boolean  @default(true)
+  createdAt  DateTime @default(now())
+
+  team       Team     @relation(fields: [teamId], references: [id], onDelete: Cascade)
+
+  @@index([teamId])
+}
+
+model AuditLog {
+  id           String   @id @default(cuid())
+  teamId       String?
+  actorId      String?
+  actorEmail   String?
+  action       String
+  targetType   String
+  targetId     String?
+  projectId    String?
+  metadataJson String   @default("{}")
+  ipAddress    String?
+  createdAt    DateTime @default(now())
+
+  team         Team?    @relation(fields: [teamId], references: [id], onDelete: SetNull)
+  actor        User?    @relation(fields: [actorId], references: [id], onDelete: SetNull)
+
+  @@index([teamId, createdAt])
+  @@index([action])
+}

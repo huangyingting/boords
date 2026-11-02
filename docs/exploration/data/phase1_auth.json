@@ -1,0 +1,466 @@
+[
+  {
+    "label": "10-app-dashboard-desktop",
+    "url": "https://app.boords.com/",
+    "title": "Joshuah Powlowski Team • Boords",
+    "bodyStyle": {
+      "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "color": "rgb(18, 18, 18)",
+      "backgroundColor": "rgb(246, 246, 240)",
+      "borderRadius": "0px"
+    },
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H1",
+        "text": "Joshuah Powlowski Team",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Get started",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "21px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Compare Plans",
+        "disabled": false,
+        "className": "inline-flex items-center justify-center font-bold min-w-min focus:outline-none focus-visible:outline-blue user-select-no",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "12.25px",
+          "fontWeight": "700",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(244, 189, 100)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "J",
+        "disabled": false,
+        "className": "flex rounded-full cursor-pointer group focus:outline-none",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Clear selection",
+        "disabled": false,
+        "className": "flex-shrink-0 cursor-pointer w-8 h-8 hover:bg-white/10 rounded-md flex items-center justify-center",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Move",
+        "disabled": false,
+        "className": "flex-shrink-0 cursor-pointer w-8 h-8 hover:bg-white/10 rounded-md flex items-center justify-center",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Archive",
+        "disabled": false,
+        "className": "flex-shrink-0 cursor-pointer w-8 h-8 hover:bg-white/10 rounded-md flex items-center justify-center",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "J",
+        "disabled": false,
+        "className": "cursor-pointer rounded-md border-0 bg-transparent p-0 leading-none ring-2 ring-border-mid ring-offset-2",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Inbox",
+        "disabled": false,
+        "className": "relative z-10 flex items-center justify-center rounded-md outline-none ring-none transition-colors duration-100 group/sq",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "What's new?",
+        "disabled": false,
+        "className": "relative z-10 flex items-center justify-center rounded-md outline-none ring-none transition-colors duration-100 group/sq",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Help & support",
+        "disabled": false,
+        "className": "relative z-10 flex items-center justify-center rounded-md outline-none ring-none transition-colors duration-100 group/sq",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "J",
+        "disabled": false,
+        "className": "flex rounded-full cursor-pointer group focus:outline-none",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Joshuah Powlowski Team",
+        "disabled": false,
+        "className": "w-full outline-none ring-none",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Close sidebar",
+        "disabled": false,
+        "className": "flex items-center justify-center flex-shrink-0 outline-none rounded-md ring-none transition-all duration-100 group/squar",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(246, 246, 240)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Assets",
+        "disabled": false,
+        "className": "group/team-menu-item px-2 py-1.5 rounded-md select-none transition-colors duration-100 [&[data-selected=true]_svg]:text-",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Select projects",
+        "disabled": false,
+        "className": "group/sidebar-menu-button relative flex h-6 w-6 items-center justify-center rounded-md border border-transparent transit",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Sort",
+        "disabled": false,
+        "className": "group/sidebar-menu-button relative flex h-6 w-6 items-center justify-center rounded-md bg-transparent transition-colors ",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Create a new project",
+        "disabled": false,
+        "className": "flex items-center justify-center flex-shrink-0 outline-none rounded-md ring-none transition-all duration-100 group/squar",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Filter",
+        "disabled": false,
+        "className": "group/sidebar-menu-button relative flex h-6 w-6 items-center justify-center rounded-md border border-transparent transit",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Create a new sub-project",
+        "disabled": false,
+        "className": "flex items-center justify-center flex-shrink-0 outline-none rounded-md ring-none transition-all duration-100 group/squar",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Not watching this project",
+        "disabled": false,
+        "className": "flex items-center justify-center flex-shrink-0 outline-none rounded-md ring-none transition-all duration-100 group/squar",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Search workspace",
+        "disabled": false,
+        "className": "flex items-center justify-center flex-shrink-0 outline-none rounded-md ring-none transition-all duration-100 group/squar",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(242, 242, 238)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Search workspace\nCtrl\nK",
+        "disabled": false,
+        "className": "inline-flex items-center justify-center font-bold min-w-min focus:outline-none focus-visible:outline-blue user-select-no",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(242, 242, 238)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "New",
+        "disabled": false,
+        "className": "inline-flex items-center justify-center font-bold min-w-min focus:outline-none focus-visible:outline-blue user-select-no",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "700",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(18, 18, 18)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Actions for Joshuah Powlowski Team",
+        "disabled": false,
+        "className": "flex items-center justify-center flex-shrink-0 w-8 h-8 outline-none cursor-pointer rounded-md ring-none hover:bg-surface",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Sort: Date modified, newest first",
+        "disabled": false,
+        "className": "flex h-[2.125rem] w-[2.125rem] flex-shrink-0 items-center justify-center rounded-md border border-border bg-surface-ligh",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(249, 249, 245)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Projects\n1",
+        "disabled": false,
+        "className": "group/shelf -ml-1.5 flex flex-shrink-0 items-center gap-2 rounded-md px-1.5 py-1 text-left text-sm hover:bg-surface-ligh",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "12.25px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Demo Project",
+        "disabled": false,
+        "className": "min-w-0 truncate text-left text-sm font-semibold text-type-primary hover:underline",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "12.25px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "New project\nBy client or campaign",
+        "disabled": false,
+        "className": "group/newproject flex w-[12.25rem] flex-shrink-0 items-center gap-3 rounded-lg border border-dashed border-border-mid py",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "7px"
+        }
+      },
+      {
+        "text": "1\n2\n3\nNew storyboard\nFrames, images and shot notes",
+        "disabled": false,
+        "className": "group/startcard flex w-full flex-col overflow-hidden rounded-lg border border-border bg-surface-raised text-left shadow-",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "7px"
+        }
+      },
+      {
+        "text": "Scene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover",
+        "disabled": false,
+        "className": "group/startcard flex w-full flex-col overflow-hidden rounded-lg border border-border bg-surface-raised text-left shadow-",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "7px"
+        }
+      },
+      {
+        "text": "What's new?",
+        "disabled": false,
+        "className": "relative z-10 flex items-center justify-center rounded-md outline-none ring-none transition-colors duration-100 group/sq",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      },
+      {
+        "text": "Help & support",
+        "disabled": false,
+        "className": "relative z-10 flex items-center justify-center rounded-md outline-none ring-none transition-colors duration-100 group/sq",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "5.25px"
+        }
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nHome\nSearch workspace\nCtrl\nK\nNew\nJ\nJoshuah Powlowski Team\nHome\n/\nJoshuah Powlowski Team\nProjects\n1\nDemo Project\nEmpty\nNew project\nBy client or campaign\nGet started\n\nPick a project, then begin with a storyboard or a script.\n\n1\n2\n3\nNew storyboard\nFrames, images and shot notes\nScene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover"
+  }
+]

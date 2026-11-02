@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.cred
+prisma/dev.db*
+docs/exploration
+test-results
+playwright-report

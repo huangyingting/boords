@@ -1,0 +1,1803 @@
+[
+  {
+    "label": "01-marketing-home-desktop",
+    "url": "https://boords.com/",
+    "title": "Storyboard & Pre-Production Software for Video Agencies | Boords",
+    "bodyStyle": {
+      "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "The pre-production platform loved by video agencies & their clients",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "64px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Studios of every size run on Boords",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Get sign⁠-⁠off without the chaos",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "The usual way",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "color": "rgb(123, 123, 123)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "With Boords",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Who signed off what, on which version",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Your cast stays the same in every frame",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Pacing signed off before the edit suite",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Everything else a review round needs",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Ask AI about Boords.",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Connect preproduction to the rest of your stack",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "We built Boords because pre-production was broken",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Get every video signed off before production starts",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Project Activity",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Project Activity",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Try Boords Free",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "Success Stories",
+        "href": "/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/demo?from=header"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.boords.com/login"
+      },
+      {
+        "text": "Try Boords Free",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "Join 1,000+ video teams\n·\n4.7/5\non G2",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "Try Boords Free",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "Team of 6\nAnimated training videos",
+        "href": "/customers/mobula"
+      },
+      {
+        "text": "Team of ~20\nExplainer videos",
+        "href": "/customers/lemonly"
+      },
+      {
+        "text": "Team of 5\nB2B brand & marketing",
+        "href": "/customers/silver"
+      },
+      {
+        "text": "All success stories\nMore studios, every team size",
+        "href": "/customers"
+      },
+      {
+        "text": "See how review works",
+        "href": "/collaborate"
+      },
+      {
+        "text": "Guest comments",
+        "href": "/docs/commenting-overview#guest-comments"
+      },
+      {
+        "text": "Versions",
+        "href": "/docs/editing-storyboards#versioning"
+      },
+      {
+        "text": "Storyboard statuses",
+        "href": "/docs/editing-storyboards#storyboard-statuses"
+      },
+      {
+        "text": "More on generating frames",
+        "href": "/ai-storyboard-generator"
+      },
+      {
+        "text": "How the asset library works",
+        "href": "/docs/asset-library"
+      },
+      {
+        "text": "More on animatics",
+        "href": "/animatic-software"
+      },
+      {
+        "text": "Premiere Pro",
+        "href": "/integrations/premiere-pro"
+      },
+      {
+        "text": "DaVinci Resolve",
+        "href": "/integrations/davinci-resolve"
+      },
+      {
+        "text": "After Effects",
+        "href": "/integrations/after-effects"
+      },
+      {
+        "text": "All export formats",
+        "href": "/integrations/exports"
+      },
+      {
+        "text": "Alder: Left on the worktop\n3 / 11\n3\nGone with Alex\n\nALEX: \"Borrowing this.\"\n\nPre",
+        "href": "/docs/sharing-links#opening-the-shareable-view"
+      },
+      {
+        "text": "PDF\nSlides\nAnimatic\nImages\nAfter Effects\nPremiere / Resolve\nScript\nGoogle Sheets",
+        "href": "/integrations/exports"
+      },
+      {
+        "text": "Passphrase\n••••••••••\nComments\nShow version number\nAllow guest version switching",
+        "href": "/docs/sharing-links#security"
+      },
+      {
+        "text": "Ask ChatGPT",
+        "href": "https://chatgpt.com/?q=I'm%20evaluating%20Boords%20(boords.com)%2C%20video%20preproduction%20software%20where%20teams%20write%20scripts%2C%20build%20storyboards%2C%20make%20animatics%2C%20and%20get%20client%20sign-off%20in%20one%20place.%20What%20does%20it%20do%2C%20what%20are%20its%20strengths%20and%20weaknesses%2C%20and%20who%20is%20it%20best%20for%3F"
+      },
+      {
+        "text": "Ask Perplexity",
+        "href": "https://www.perplexity.ai/search?q=I'm%20evaluating%20Boords%20(boords.com)%2C%20video%20preproduction%20software%20where%20teams%20write%20scripts%2C%20build%20storyboards%2C%20make%20animatics%2C%20and%20get%20client%20sign-off%20in%20one%20place.%20What%20does%20it%20do%2C%20what%20are%20its%20strengths%20and%20weaknesses%2C%20and%20who%20is%20it%20best%20for%3F"
+      },
+      {
+        "text": "Ask Claude",
+        "href": "https://claude.ai/new?q=I'm%20evaluating%20Boords%20(boords.com)%2C%20video%20preproduction%20software%20where%20teams%20write%20scripts%2C%20build%20storyboards%2C%20make%20animatics%2C%20and%20get%20client%20sign-off%20in%20one%20place.%20What%20does%20it%20do%2C%20what%20are%20its%20strengths%20and%20weaknesses%2C%20and%20who%20is%20it%20best%20for%3F"
+      },
+      {
+        "text": "Claude",
+        "href": "/integrations/claude"
+      },
+      {
+        "text": "ChatGPT",
+        "href": "/integrations/chatgpt"
+      },
+      {
+        "text": "Slack",
+        "href": "/integrations/slack"
+      },
+      {
+        "text": "After Effects",
+        "href": "/integrations/after-effects"
+      },
+      {
+        "text": "PowerPoint",
+        "href": "/integrations/powerpoint"
+      },
+      {
+        "text": "Premiere Pro",
+        "href": "/integrations/premiere-pro"
+      },
+      {
+        "text": "Google Sheets",
+        "href": "/integrations/google-sheets"
+      },
+      {
+        "text": "Boords API",
+        "href": "/integrations/api"
+      },
+      {
+        "text": "Webhooks",
+        "href": "/integrations/api#webhooks"
+      },
+      {
+        "text": "DaVinci Resolve",
+        "href": "/integrations/davinci-resolve"
+      },
+      {
+        "text": "Work from Claude and ChatGPT\nDraft scripts and build boards from a chat.",
+        "href": "/mcp"
+      },
+      {
+        "text": "Client notes in your Slack DMs\nMentions, replies and comments on boards and scri",
+        "href": "/integrations/slack"
+      },
+      {
+        "text": "Hand off to the edit and the deck\nAfter Effects, Premiere Pro, Resolve, PowerPoi",
+        "href": "/integrations/exports"
+      },
+      {
+        "text": "See all integrations & exports",
+        "href": "/integrations"
+      },
+      {
+        "text": "Animade",
+        "href": "https://animade.tv"
+      },
+      {
+        "text": "LinkedIn",
+        "href": "https://www.linkedin.com/in/chambersjames/"
+      },
+      {
+        "text": "Try Boords Free",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/demo?from=home_cta"
+      },
+      {
+        "text": "Read our reviews",
+        "href": "https://www.g2.com/products/boords/reviews"
+      },
+      {
+        "text": "Scripts",
+        "href": "/script-editor"
+      },
+      {
+        "text": "Storyboards",
+        "href": "/storyboard-software"
+      },
+      {
+        "text": "Animatics",
+        "href": "/animatic-software"
+      },
+      {
+        "text": "Shot Lists",
+        "href": "/shot-list-software"
+      },
+      {
+        "text": "Feedback & Approvals",
+        "href": "/collaborate"
+      },
+      {
+        "text": "MCP Server",
+        "href": "/mcp"
+      },
+      {
+        "text": "Slack",
+        "href": "/integrations/slack"
+      },
+      {
+        "text": "API and webhooks",
+        "href": "/integrations/api"
+      },
+      {
+        "text": "Exports",
+        "href": "/integrations/exports"
+      },
+      {
+        "text": "Boords Agent",
+        "href": "/agent"
+      },
+      {
+        "text": "All integrations & exports",
+        "href": "/integrations"
+      },
+      {
+        "text": "Storyboard Generator",
+        "href": "/ai-storyboard-generator"
+      },
+      {
+        "text": "Script Generator",
+        "href": "/ai-script-generator"
+      },
+      {
+        "text": "Script Timer",
+        "href": "/script-timer"
+      },
+      {
+        "text": "Video Script Editor",
+        "href": "/video-script-template"
+      },
+      {
+        "text": "How to Write a Video Script",
+        "href": "/how-to-write-a-video-script"
+      },
+      {
+        "text": "Storyboard Templates",
+        "href": "/storyboard-template"
+      },
+      {
+        "text": "Shot List Template",
+        "href": "/shot-list-template"
+      },
+      {
+        "text": "Call Sheet Template",
+        "href": "/call-sheet-template"
+      },
+      {
+        "text": "About",
+        "href": "/about"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/demo?from=footer"
+      },
+      {
+        "text": "Newsletter",
+        "href": "/newsletter"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Climate Contributions",
+        "href": "https://climate.stripe.com/yGmT0V"
+      },
+      {
+        "text": "Security",
+        "href": "/security"
+      },
+      {
+        "text": "Documentation",
+        "href": "/docs"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "/terms"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/boords"
+      },
+      {
+        "text": "",
+        "href": "https://x.com/boordsapp"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/@boords"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/boordsHQ"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Open menu",
+        "disabled": false,
+        "className": "flex h-10 w-10 items-center justify-center rounded-full transition-colors hover:bg-black/5",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Features",
+        "disabled": false,
+        "className": "nav-menu-trigger group relative z-50 flex cursor-pointer items-center whitespace-nowrap rounded-full px-3 py-1.5 text-sm",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Resources",
+        "disabled": false,
+        "className": "nav-menu-trigger group relative z-50 flex cursor-pointer items-center whitespace-nowrap rounded-full px-3 py-1.5 text-sm",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Connect your AI",
+        "disabled": false,
+        "className": "inline-flex shrink-0 items-center gap-3 whitespace-nowrap rounded-full border border-black/15 bg-transparent py-3 pl-6 p",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Script. Write and comment.",
+        "disabled": false,
+        "className": "jsx-7e3d2d7f1840b938 group min-w-0 px-1 py-2 text-left outline-none md:px-2",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Storyboard. Build and revise.",
+        "disabled": false,
+        "className": "jsx-7e3d2d7f1840b938 group min-w-0 px-1 py-2 text-left outline-none md:px-2",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Review. Annotate and approve.",
+        "disabled": false,
+        "className": "jsx-7e3d2d7f1840b938 group min-w-0 px-1 py-2 text-left outline-none md:px-2",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Client view\nOne link, no login",
+        "disabled": false,
+        "className": "group block w-full rounded-sm text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "2px"
+        }
+      },
+      {
+        "text": "Team view\nEvery round on record",
+        "disabled": false,
+        "className": "group block w-full rounded-sm text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "2px"
+        }
+      },
+      {
+        "text": "Pause demo",
+        "disabled": false,
+        "className": "inline-flex size-9 shrink-0 items-center justify-center rounded-full text-white/60 transition-colors hover:bg-white/10 h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgba(255, 255, 255, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Cast\nSave once, use anywhere",
+        "disabled": false,
+        "className": "group block w-full rounded-sm text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "2px"
+        }
+      },
+      {
+        "text": "Refine\nChange one detail",
+        "disabled": false,
+        "className": "group block w-full rounded-sm text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "2px"
+        }
+      },
+      {
+        "text": "Pause demo",
+        "disabled": false,
+        "className": "inline-flex size-9 shrink-0 items-center justify-center rounded-full text-white/60 transition-colors hover:bg-white/10 h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgba(255, 255, 255, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Animatic\nTiming and audio",
+        "disabled": false,
+        "className": "group block w-full rounded-sm text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "2px"
+        }
+      },
+      {
+        "text": "Edit\nPremiere, Resolve, After Effects",
+        "disabled": false,
+        "className": "group block w-full rounded-sm text-left focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "2px"
+        }
+      },
+      {
+        "text": "Pause demo",
+        "disabled": false,
+        "className": "inline-flex size-9 shrink-0 items-center justify-center rounded-full text-white/60 transition-colors hover:bg-white/10 h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgba(255, 255, 255, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Accept & Close",
+        "disabled": false,
+        "className": "px-5 text-center  pt-1.5 pb-1.5 font-semibold border-2 lg:border-3 block sm:inline-block focus:outline-none focus-visibl",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(18, 18, 18)",
+          "borderRadius": "9999px"
+        }
+      }
+    ],
+    "inputs": [],
+    "textSample": "Features\nResources\nSuccess Stories\nPricing\nBook a demo\nLog in\nTry Boords Free\nJoin 1,000+ video teams\n·\n4.7/5\non G2\nThe pre-production platform loved by video agencies & their clients\n\nCreate scripts, storyboards and animatics with your team.\nShare work with clients, collect feedback, and get sign-off before production begins.\n\nTry Boords Free\nConnect your AI\nNo card required\nBuilt for professionals\nUnlimited free reviewers\napp.boords.com\nStoryboard\nEdit\nReview\nBeacon Ads\n/\nAlder Launch\nAlder: Left on the worktop\nVersion 1\nVersion 2\nIn review\nParagraph\nInsert\n16\nAlder: Left on the worktop\n\nTwo-column AV. Ready for the team to review and turn into a board.\n\nTotal RT 0:30\nAudio words 64\n130 WPM\nScene\nAudio / Voiceover\nVisual\n1\n8 words\n0:04\nVO: Every house has one bottle that wanders.\nWIDE THROUGH DOORWAY: Morning. Sarah lifts a new bottle of Alder out of an open delivery box on the kitchen island.\n2\n3 words\n0:01\nSFX: Pump click.\nINSERT: Sarah pumps once into her palm and works the lotion into the backs of her hands.\n3\n3 words\n0:01\nALEX: \"Borrowing this.\"\nLOW ANGLE: Alex, jacket on, picks the bottle up off the end of the island on her way out and pockets it. Sarah, at the sink, doesn't turn round.\n4\n7 words\n0:03\nVO: By nine, it's three postcodes away.\nEXTREME WIDE: From a window across the street, Alex crosses the road, rubbing lotion into her knuckles as she goes.\n5\n3 words\n0:01\nSFX: Typing stops.\nOVER THE SHOULDER: Alex stands the bottle by her monitor. At the desk opposite, Sam stops typing and looks at it.\n6\n8 words\n0:04\nVO: Made for dry hands. Borrowed by everyone.\nPROFILE: Sam pumps lotion into Leo's outstretched palm. Leo has already wheeled his chair over for it.\n7\n7 words\n0:03\nSFX: Music drops out. Tap drips once.\nTOP-DOWN INSERT: Late afternoon. Sarah reaches for the bottle and finds only the empty box.\n8\n5 words\n0:02\nSARAH: \"Where's my hand cream?\"\nTHROUGH THE WINDOW: Sarah rings Alex, phone to her ear, eyebrows up.\n9\n3 words\n0:01\nALEX: \"It's safe.\"\nREVERSE ANGLE: Alex answers at her desk, looking across at Leo, who is pumping the bottle into his own palm.\n10\n7 words\n0:03\nVO: One to keep. One to lose.\nOVER THE SHOULDER: Next morning, Sarah unpacks a box of two and hands the second bottle straight to Alex.\n11\n10 words\n0:05\nVO: Alder Daily Barrier Lotion. Moisture that lasts seventy-two hours.\nPACKSHOT: The bottle stands on the worktop beside the open box, window light from the side. SUPER: Alder. Good enough to go missing.\n1\nBox on the island\nVO: Every house has one bottle that wanders.\nWIDE THROUGH DOORWAY: Morning. Sarah lifts a new bottle of Alder out of an open delivery box on the kitchen island.\n2\nFirst pump\nSFX: Pump click.\nINSERT: Sarah pumps once into her palm and works the lotion into the backs of her hands.\n3\nGone with Alex\nALEX: \"Borrowing this.\"\nLOW ANGLE: Alex, jacket on, picks the bottle up off the end of the island on her way out and pockets it. Sarah, at the sink, doesn't turn round.\n4\nOver the crossing\nVO: By nine, it's th"
+  },
+  {
+    "label": "02-marketing-pricing-desktop",
+    "url": "https://boords.com/pricing",
+    "title": "Pricing | Boords",
+    "bodyStyle": {
+      "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Get every video signed off before production starts",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "64px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Scaling beyond Agency? Let's talk.",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "27.9984px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "We built Boords because pre-production was broken",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Frequently asked questions",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "44px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "What guarantees do you offer?",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "What payment methods do you accept?",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Is there a long contract?",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Is there a non-profit discount?",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Can I change my plan?",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "Will my data be safe?",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H3",
+        "text": "I have more questions!",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "20px",
+          "fontWeight": "600",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Success Stories",
+        "href": "/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "/pricing"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/demo?from=header"
+      },
+      {
+        "text": "Log in",
+        "href": "https://app.boords.com/login"
+      },
+      {
+        "text": "Try Boords Free",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "250 AI images per month",
+        "href": "https://boords.com/docs/ai-image-generator"
+      },
+      {
+        "text": "Get Solo",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_solo%2Fmonthly"
+      },
+      {
+        "text": "Up to 5 users",
+        "href": "https://boords.com/docs/team-users"
+      },
+      {
+        "text": "1,000 AI images per month",
+        "href": "https://boords.com/docs/ai-image-generator"
+      },
+      {
+        "text": "Get Pro",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_pro%2Fmonthly"
+      },
+      {
+        "text": "Up to 10 users",
+        "href": "https://boords.com/docs/team-users"
+      },
+      {
+        "text": "2,000 AI images per month",
+        "href": "https://boords.com/docs/ai-image-generator"
+      },
+      {
+        "text": "Get Team",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_team%2Fmonthly"
+      },
+      {
+        "text": "Up to 30 users",
+        "href": "https://boords.com/docs/team-users"
+      },
+      {
+        "text": "3,000 AI images per month",
+        "href": "https://boords.com/docs/ai-image-generator"
+      },
+      {
+        "text": "Get Agency",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_agency%2Fmonthly"
+      },
+      {
+        "text": "Book a 25-minute demo",
+        "href": "/demo?from=pricing_agency"
+      },
+      {
+        "text": "Start free",
+        "href": "https://app.boords.com/signup"
+      },
+      {
+        "text": "Talk to sales",
+        "href": "/enterprise"
+      },
+      {
+        "text": "Evan Pirone\n\nCreative Director at Vidico",
+        "href": "https://vidico.com/"
+      },
+      {
+        "text": "Andreas Niedermayer\n\nFounder, Polarfux",
+        "href": "https://www.polarfux.com/"
+      },
+      {
+        "text": "Rated 4.7 out of 5 on G2\nRead the reviews",
+        "href": "https://www.g2.com/products/boords/reviews"
+      },
+      {
+        "text": "Get Solo",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_solo%2Fmonthly"
+      },
+      {
+        "text": "Get Pro",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_pro%2Fmonthly"
+      },
+      {
+        "text": "Get Team",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_team%2Fmonthly"
+      },
+      {
+        "text": "Get Agency",
+        "href": "https://app.boords.com/signup?next_url=%2Fcheckout%2Fv2026_agency%2Fmonthly"
+      },
+      {
+        "text": "No-signup client reviews",
+        "href": "https://boords.com/docs/sharing-links"
+      },
+      {
+        "text": "Project sharing links",
+        "href": "https://boords.com/docs/sharing-links#sharing-projects"
+      },
+      {
+        "text": "Password protection",
+        "href": "https://boords.com/docs/sharing-links#password-protection"
+      },
+      {
+        "text": "Animatic editor",
+        "href": "https://boords.com/docs/animatics"
+      },
+      {
+        "text": "PDF exports",
+        "href": "https://boords.com/docs/pdf-exports"
+      },
+      {
+        "text": "All export formats",
+        "href": "https://boords.com/integrations/exports"
+      },
+      {
+        "text": "Version control",
+        "href": "https://boords.com/docs/editing-storyboards#versioning"
+      },
+      {
+        "text": "Activity trail",
+        "href": "https://boords.com/docs/activity-and-notifications"
+      },
+      {
+        "text": "Client-hidden comments",
+        "href": "https://boords.com/docs/commenting-overview"
+      },
+      {
+        "text": "Project-level permissions",
+        "href": "https://boords.com/docs/projects"
+      },
+      {
+        "text": "Customizable templates",
+        "href": "https://boords.com/docs/templates"
+      },
+      {
+        "text": "Team invite link",
+        "href": "https://boords.com/docs/team-users#using-an-invite-link"
+      },
+      {
+        "text": "Custom subdomain",
+        "href": "https://boords.com/docs/team-settings#custom-subdomain"
+      },
+      {
+        "text": "Two-factor authentication",
+        "href": "https://boords.com/docs/profile#two-factor-authentication"
+      },
+      {
+        "text": "Password rotation",
+        "href": "https://boords.com/docs/team-settings#password-rotation"
+      },
+      {
+        "text": "MCP server",
+        "href": "https://boords.com/mcp"
+      },
+      {
+        "text": "Public API",
+        "href": "https://boords.com/docs/public-api"
+      },
+      {
+        "text": "Webhooks",
+        "href": "https://boords.com/integrations/api#webhooks"
+      },
+      {
+        "text": "Slack notifications",
+        "href": "https://boords.com/integrations/slack"
+      },
+      {
+        "text": "Animade",
+        "href": "https://animade.tv"
+      },
+      {
+        "text": "LinkedIn",
+        "href": "https://www.linkedin.com/in/chambersjames/"
+      },
+      {
+        "text": "billing section",
+        "href": "https://app.boords.com/billing"
+      },
+      {
+        "text": "our security policy",
+        "href": "https://boords.com/security"
+      },
+      {
+        "text": "hello@boords.com",
+        "href": "mailto:hello@boords.com"
+      },
+      {
+        "text": "book a 25-minute demo",
+        "href": "/demo?from=pricing_faq"
+      },
+      {
+        "text": "Read our reviews",
+        "href": "https://www.g2.com/products/boords/reviews"
+      },
+      {
+        "text": "Scripts",
+        "href": "/script-editor"
+      },
+      {
+        "text": "Storyboards",
+        "href": "/storyboard-software"
+      },
+      {
+        "text": "Animatics",
+        "href": "/animatic-software"
+      },
+      {
+        "text": "Shot Lists",
+        "href": "/shot-list-software"
+      },
+      {
+        "text": "Feedback & Approvals",
+        "href": "/collaborate"
+      },
+      {
+        "text": "MCP Server",
+        "href": "/mcp"
+      },
+      {
+        "text": "Slack",
+        "href": "/integrations/slack"
+      },
+      {
+        "text": "API and webhooks",
+        "href": "/integrations/api"
+      },
+      {
+        "text": "Exports",
+        "href": "/integrations/exports"
+      },
+      {
+        "text": "Boords Agent",
+        "href": "/agent"
+      },
+      {
+        "text": "All integrations & exports",
+        "href": "/integrations"
+      },
+      {
+        "text": "Storyboard Generator",
+        "href": "/ai-storyboard-generator"
+      },
+      {
+        "text": "Script Generator",
+        "href": "/ai-script-generator"
+      },
+      {
+        "text": "Script Timer",
+        "href": "/script-timer"
+      },
+      {
+        "text": "Video Script Editor",
+        "href": "/video-script-template"
+      },
+      {
+        "text": "How to Write a Video Script",
+        "href": "/how-to-write-a-video-script"
+      },
+      {
+        "text": "Storyboard Templates",
+        "href": "/storyboard-template"
+      },
+      {
+        "text": "Shot List Template",
+        "href": "/shot-list-template"
+      },
+      {
+        "text": "Call Sheet Template",
+        "href": "/call-sheet-template"
+      },
+      {
+        "text": "About",
+        "href": "/about"
+      },
+      {
+        "text": "Book a demo",
+        "href": "/demo?from=footer"
+      },
+      {
+        "text": "Newsletter",
+        "href": "/newsletter"
+      },
+      {
+        "text": "Blog",
+        "href": "/blog"
+      },
+      {
+        "text": "Changelog",
+        "href": "/changelog"
+      },
+      {
+        "text": "Climate Contributions",
+        "href": "https://climate.stripe.com/yGmT0V"
+      },
+      {
+        "text": "Security",
+        "href": "/security"
+      },
+      {
+        "text": "Documentation",
+        "href": "/docs"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "/terms"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/boords"
+      },
+      {
+        "text": "",
+        "href": "https://x.com/boordsapp"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/@boords"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/boordsHQ"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Open menu",
+        "disabled": false,
+        "className": "flex h-10 w-10 items-center justify-center rounded-full transition-colors hover:bg-black/5",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Features",
+        "disabled": false,
+        "className": "nav-menu-trigger group relative z-50 flex cursor-pointer items-center whitespace-nowrap rounded-full px-3 py-1.5 text-sm",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Resources",
+        "disabled": false,
+        "className": "nav-menu-trigger group relative z-50 flex cursor-pointer items-center whitespace-nowrap rounded-full px-3 py-1.5 text-sm",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.6)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Monthly",
+        "disabled": false,
+        "className": "rounded-full px-4 py-1.5 text-sm focus:outline-none focus:ring-0 outline-none transition-all flex items-center bg-white ",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Yearly\nSave 33%",
+        "disabled": false,
+        "className": "rounded-full px-4 py-1.5 text-sm focus:outline-none focus:ring-0 outline-none transition-all flex items-center bg-transp",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(183, 122, 30, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Or $26/mo billed yearly →",
+        "disabled": false,
+        "className": "cursor-pointer text-left text-sm text-black/80 underline decoration-yellow-vivid underline-offset-[3px] transition-color",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.8)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Or $50/mo billed yearly →",
+        "disabled": false,
+        "className": "cursor-pointer text-left text-sm text-black/80 underline decoration-yellow-vivid underline-offset-[3px] transition-color",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.8)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Or $85/mo billed yearly →",
+        "disabled": false,
+        "className": "cursor-pointer text-left text-sm text-black/80 underline decoration-yellow-vivid underline-offset-[3px] transition-color",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.8)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Or $165/mo billed yearly →",
+        "disabled": false,
+        "className": "cursor-pointer text-left text-sm text-black/80 underline decoration-yellow-vivid underline-offset-[3px] transition-color",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(18, 18, 18, 0.8)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Monthly",
+        "disabled": false,
+        "className": "rounded-full px-4 py-1.5 text-sm focus:outline-none focus:ring-0 outline-none transition-all flex items-center bg-white ",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(18, 18, 18)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Yearly",
+        "disabled": false,
+        "className": "rounded-full px-4 py-1.5 text-sm focus:outline-none focus:ring-0 outline-none transition-all flex items-center bg-transp",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgba(183, 122, 30, 0.5)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "9999px"
+        }
+      },
+      {
+        "text": "Custom frame fields",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Active Scripts",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Free-form and 2-column AV editing",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Automatic voiceover timing",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Client review and comments",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Version history",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "Convert Script to Storyboard",
+        "disabled": false,
+        "className": "cursor-help text-left underline decoration-black/20 decoration-1 underline-offset-2 transition-colors hover:text-black h",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "14.4px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "text": "What guarantees do you offer?",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "What payment methods do you accept?",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "Is there a long contract?",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "Is there a non-profit discount?",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "Can I change my plan?",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "Will my data be safe?",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "I have more questions!",
+        "disabled": false,
+        "className": "flex w-full items-center justify-between gap-6 rounded-card px-6 py-5 text-left focus-visible:outline-none focus-visible",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "color": "rgb(0, 0, 0)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "24px"
+        }
+      },
+      {
+        "text": "Accept & Close",
+        "disabled": false,
+        "className": "px-5 text-center  pt-1.5 pb-1.5 font-semibold border-2 lg:border-3 block sm:inline-block focus:outline-none focus-visibl",
+        "style": {
+          "fontFamily": "matter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(18, 18, 18)",
+          "borderRadius": "9999px"
+        }
+      }
+    ],
+    "inputs": [],
+    "textSample": "Features\nResources\nSuccess Stories\nPricing\nBook a demo\nLog in\nTry Boords Free\nGet every video signed off before production starts\nUnlimited clients review and comment without an account, on every plan.\nMonthly\nYearly\nSave 33%\nSolo\n$39\n/month\nOr $26/mo billed yearly →\nSingle user\n250 AI images per month\nUnlimited storyboards & scripts\nGet Solo\nPro\n$75\n/month\nOr $50/mo billed yearly →\nUp to 5 users\n1,000 AI images per month\nEverything in Solo\nGet Pro\nTeam\n$125\n/month\nOr $85/mo billed yearly →\nUp to 10 users\n2,000 AI images per month\nAdvanced team controls\nGet Team\nAgency\n$250\n/month\nOr $165/mo billed yearly →\nUp to 30 users\n3,000 AI images per month\nPriority support\nGet Agency\nBook a 25-minute demo\nFree plan · No credit card required\n5 active storyboards\n3 active scripts\n8 one-off sample AI image credits\nStart free\nCancel anytime. 30-day money-back guarantee on paid plans.\nENTERPRISE\nScaling beyond Agency? Let's talk.\n\nCustom seat counts, signed contracts, dedicated support, and the security infrastructure your procurement team needs.\n\nTalk to sales\nTypical response within 1 working day\nWHAT'S INCLUDED\nSingle sign-on (SAML)\nCustom seat counts & billing terms\nCustom AI credit pools\nDedicated support & onboarding\nMSA & DPA support\nAudit-grade activity trail\nWe've literally cut our storyboarding time in half. This is an absolute game-changer for creative output across the agency.\n\nRyan Walton\n\nFounder & CEO, Aura Ads\n\nRevisions, new versions, sharing to clients… Before Boords, storyboarding was plain messy. Now, workflows are faster and easier than ever before.\n\nEvan Pirone\n\nCreative Director at Vidico\n\nBefore Boords, tracking feedback was a mess. With Boords we've got versioning, commenting, and presenting all in one place. It helps us with client communication so much.\n\nAndreas Niedermayer\n\nFounder, Polarfux\n\nRated 4.7 out of 5 on G2\nRead the reviews\nCompare plans\nMonthly\nYearly\nSolo\n$39\n/month\nBilled monthly\nGet Solo\nPro\n$75\n/month\nBilled monthly\nGet Pro\nTeam\n$125\n/month\nBilled monthly\nGet Team\nAgency\n$250\n/month\nBilled monthly\nGet Agency\nCORE FEATURES\nUsers\nSolo: Users:\n1\nPro: Users:\nUp to 5\nTeam: Users:\nUp to 10\nAgency: Users:\nUp to 30\nStoryboards\nSolo: Storyboards:\nUnlimited\nPro: Storyboards:\nUnlimited\nTeam: Storyboards:\nUnlimited\nAgency: Storyboards:\nUnlimited\nAI images\nSolo: AI images:\n250/mo\nPro: AI images:\n1,000/mo\nTeam: AI images:\n2,000/mo\nAgency: AI images:\n3,000/mo\nUnlimited frames\nSolo: Unlimited frames:\nIncluded\nPro: Unlimited frames:\nIncluded\nTeam: Unlimited frames:\nIncluded\nAgency: Unlimited frames:\nIncluded\nNo watermarks\nSolo: No watermarks:\nIncluded\nPro: No watermarks:\nIncluded\nTeam: No watermarks:\nIncluded\nAgency: No watermarks:\nIncluded\nStock image library\nSolo: Stock image library:\nIncluded\nPro: Stock image library:\nIncluded\nTeam: Stock image library:\nIncluded\nAgency: Stock image library:\nIncluded\nDropbox & Google Drive\nSolo: Dropbox & Google Drive:\nIncluded\nPro: Dropbox & Google Drive:\nIncluded\nTeam: Dropbox & Google Drive:\nIncl"
+  },
+  {
+    "label": "03-auth-login-desktop",
+    "url": "https://app.boords.com/login",
+    "title": "Just a moment...",
+    "bodyStyle": {
+      "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(49, 49, 49)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "app.boords.com",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "40px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Performing security verification",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Verification successful. Waiting for app.boords.com to respond",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Cloudflare",
+        "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://www.cloudflare.com/privacypolicy/"
+      }
+    ],
+    "buttons": [],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": "",
+        "ariaLabel": null
+      }
+    ],
+    "textSample": "app.boords.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a54637fbdabd3231\nPerformance and Security by Cloudflare\nPrivacy"
+  },
+  {
+    "label": "04-auth-register-desktop",
+    "url": "https://app.boords.com/register",
+    "title": "Just a moment...",
+    "bodyStyle": {
+      "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(49, 49, 49)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "app.boords.com",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "40px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Performing security verification",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Verification successful. Waiting for app.boords.com to respond",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Cloudflare",
+        "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://www.cloudflare.com/privacypolicy/"
+      }
+    ],
+    "buttons": [],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": "",
+        "ariaLabel": null
+      }
+    ],
+    "textSample": "app.boords.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a546381418303231\nPerformance and Security by Cloudflare\nPrivacy"
+  },
+  {
+    "label": "05-auth-forgot-password",
+    "url": "https://app.boords.com/password/new",
+    "title": "Just a moment...",
+    "bodyStyle": {
+      "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "color": "rgb(49, 49, 49)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "app.boords.com",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "40px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Performing security verification",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "text": "Verification successful. Waiting for app.boords.com to respond",
+        "style": {
+          "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+          "fontSize": "24px",
+          "fontWeight": "600",
+          "color": "rgb(49, 49, 49)",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "borderRadius": "0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Cloudflare",
+        "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
+      },
+      {
+        "text": "Privacy",
+        "href": "https://www.cloudflare.com/privacypolicy/"
+      }
+    ],
+    "buttons": [],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "cf-turnstile-response",
+        "placeholder": "",
+        "ariaLabel": null
+      }
+    ],
+    "textSample": "app.boords.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a5463827b8243231\nPerformance and Security by Cloudflare\nPrivacy"
+  }
+]

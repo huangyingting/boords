@@ -1,0 +1,1010 @@
+[
+  {
+    "label": "78-storyboard-shot-list-view",
+    "url": "https://app.boords.com/storyboards/6do7mo-commercial-launch-spot",
+    "title": "Commercial Launch Spot · Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Commercial Launch Spot"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "v1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox and email notifications are on"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "tab",
+        "text": "Storyboard"
+      },
+      {
+        "role": "tab",
+        "text": "Shot list"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Shot list"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export Shot List"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Commercial Launch Spot"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nJ\nJoshuah Powlowski Team\n/\nDemo Project\n/\nStoryboards\nCommercial Launch Spot\nv1\nDraft\nJ\nExport\nEdit\nReview\nJoshuah Powlowski Team\n/\nDemo Project\n/\nCommercial Launch Spot\nStoryboard\nShot list\nStoryboard\nShot list\nExport Shot List\nFrame\nImage\nLabel\nSound\nAction\nStatus\n1\nNo status\n2\nNo status\n3\nNo status\n4\nNo status\n5\nNo status\n6\nNo status"
+  },
+  {
+    "label": "79-storyboard-view-options",
+    "url": "https://app.boords.com/storyboards/6do7mo-commercial-launch-spot",
+    "title": "Commercial Launch Spot · Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Commercial Launch Spot"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "v1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox and email notifications are on"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "tab",
+        "text": "Storyboard"
+      },
+      {
+        "role": "tab",
+        "text": "Shot list"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Shot list"
+      },
+      {
+        "role": "BUTTON",
+        "text": "View options"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Collapse all"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select all (ctrl + a)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Delete (select a frame to delete it)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "upload files"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Commercial Launch Spot"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Show generator",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Show script",
+        "value": "on"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nJ\nJoshuah Powlowski Team\n/\nDemo Project\n/\nStoryboards\nCommercial Launch Spot\nv1\nDraft\nJ\nExport\nEdit\nReview\nJoshuah Powlowski Team\n/\nDemo Project\n/\nCommercial Launch Spot\nStoryboard\nShot list\nStoryboard\nShot list\n\nShow generator\n\nShow script\n\nCollapse all\nGenerate\n1\nQuick Generate\n• Sketch\nGenerate\n2\nQuick Generate\n• Sketch\nGenerate\n3\nQuick Generate\n• Sketch\nGenerate\n4\nQuick Generate\n• Sketch\nGenerate\n5\nQuick Generate\n• Sketch\nGenerate\n6\nQuick Generate\n• Sketch\nAdd Frame\nor\nupload files"
+  },
+  {
+    "label": "82-storyboard-versions-menu",
+    "url": "https://app.boords.com/storyboards/6do7mo-commercial-launch-spot",
+    "title": "Commercial Launch Spot · Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Commercial Launch Spot"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "v1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox and email notifications are on"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "tab",
+        "text": "Storyboard"
+      },
+      {
+        "role": "tab",
+        "text": "Shot list"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Shot list"
+      },
+      {
+        "role": "BUTTON",
+        "text": "View options"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select all (ctrl + a)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Delete (select a frame to delete it)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Generate"
+      },
+      {
+        "role": "BUTTON",
+        "text": "upload files"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Commercial Launch Spot"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nJ\nJoshuah Powlowski Team\n/\nDemo Project\n/\nStoryboards\nCommercial Launch Spot\nv1\nDraft\nJ\nExport\nEdit\nReview\nJoshuah Powlowski Team\n/\nDemo Project\n/\nCommercial Launch Spot\nStoryboard\nShot list\nStoryboard\nShot list\nGenerate\n1\nQuick Generate\n• Sketch\nGenerate\n2\nQuick Generate\n• Sketch\nGenerate\n3\nQuick Generate\n• Sketch\nGenerate\n4\nQuick Generate\n• Sketch\nGenerate\n5\nQuick Generate\n• Sketch\nGenerate\n6\nQuick Generate\n• Sketch\nAdd Frame\nor\nupload files\nUpgrade Required\nTrack Every Version\nUpgrade to track versions and always know which one was signed off.\nCompare Plans"
+  },
+  {
+    "label": "84-archive-with-items",
+    "url": "https://app.boords.com/archive/zNFAmwg",
+    "title": "Archive • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Archive"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Date archived"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for archived script"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "Search archived items...",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nYou are viewing archived items. Please restore them to edit.\nArchive\nDate archived\nARCHIVED SCRIPTS (1)\nUntitled Script\n2 Nov '26\n1 version\nDemo Project"
+  }
+]

@@ -1,0 +1,3213 @@
+[
+  {
+    "label": "22-sidebar-assets",
+    "url": "https://app.boords.com/library/zNFAmwg/playground",
+    "title": "Asset Library • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Asset Library"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "tab",
+        "text": "Playground"
+      },
+      {
+        "role": "tab",
+        "text": "Library"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Dismiss Playground tip"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add reference images (0 of 4)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1:1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Image model: GPT Image 2.5 Flare"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No preset"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nAsset Library\n\nImages shared across your team’s projects.\n\nPlayground\nLibrary\n\nPlayground Generate images, type @ to reference a Library image, and save the results you like.\n\n1:1\nNo preset"
+  },
+  {
+    "label": "22b-assets-library-tab",
+    "url": "https://app.boords.com/library/zNFAmwg",
+    "title": "Asset Library • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Asset Library"
+      },
+      {
+        "tag": "H2",
+        "text": "FOLDERS"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "tab",
+        "text": "Playground"
+      },
+      {
+        "role": "tab",
+        "text": "Library"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Dismiss Library tip"
+      },
+      {
+        "role": "BUTTON",
+        "text": "All images 12"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new folder"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Props"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for folder Props"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Locations"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for folder Locations"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Characters"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for folder Characters"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Unfiled 0"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New folder"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add from project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Decrease asset size"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Increase asset size"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Date created"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Upload images or drag and drop"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Alex"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Alex"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@alex"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Sam"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Sam"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@sam"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Sarah"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Sarah"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@sarah"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Leo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Leo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@leo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Office"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Office"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@office"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Street"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Street"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@street"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Kitchen"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Kitchen"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@kitchen"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Park"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Park"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@park"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Phone"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Phone"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@phone"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Product"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Product"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@product"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Car"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Car"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@car"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select Box"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Box"
+      },
+      {
+        "role": "BUTTON",
+        "text": "@box"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Delete"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "search",
+        "name": "",
+        "placeholder": "Filter by name or tag",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nAsset Library\n\nImages shared across your team’s projects.\n\nPlayground\nLibrary\n\nLibrary Shared team images you can use in your storyboards.\n\nAll images\n12\nFOLDERS\nSort\nProps\n4\nLocations\n4\nCharacters\n4\nUnfiled\n0\nNew folder\nFilter images by name or tag\nDate created\nUpload images\nor drag and drop\n\nAlex\n\n@alex\n2 Nov '26\nCharacters\n\nSam\n\n@sam\n2 Nov '26\nCharacters\n\nSarah\n\n@sarah\n2 Nov '26\nCharacters\n\nLeo\n\n@leo\n2 Nov '26\nCharacters\n\nOffice\n\n@office\n2 Nov '26\nLocations\n\nStreet\n\n@street\n2 Nov '26\nLocations\n\nKitchen\n\n@kitchen\n2 Nov '26\nLocations\n\nPark\n\n@park\n2 Nov '26\nLocations\n\nPhone\n\n@phone\n2 Nov '26\nProps\n\nProduct\n\n@product\n2 Nov '26\nProps\n\nCar\n\n@car\n2 Nov '26\nProps\n\nBox\n\n@box\n2 Nov '26\nProps\n0 items selected"
+  },
+  {
+    "label": "22-sidebar-activity",
+    "url": "https://app.boords.com/activity/zNFAmwg?from=2026-10-03T21%3A33%3A04.253Z&to=2026-11-02T21%3A33%3A04.253Z",
+    "title": "Activity • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Team Activity"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Connect"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nTeam Activity\n\nView activity history for this team.\n\nFilter\nConnect\nNo activities to display"
+  },
+  {
+    "label": "22-sidebar-team",
+    "url": "https://app.boords.com/people/zNFAmwg",
+    "title": "Team • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H2",
+        "text": "ACTIVE TEAM MEMBERS (1) • SEATS USED (1/5)"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Full access"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Invite"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help docs"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "",
+        "placeholder": "Invite by email",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nJ\nJoshuah Powlowski Team\nFree\nInvite via link\nFull access\nInvite\nACTIVE TEAM MEMBERS (1) • SEATS USED (1/5)\nJ\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nOwner"
+  },
+  {
+    "label": "22-sidebar-archive",
+    "url": "https://app.boords.com/archive/zNFAmwg",
+    "title": "Archive • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Archive"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "Search archived items...",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nYou are viewing archived items. Please restore them to edit.\nArchive\nArchived content will appear here\nArchiving projects, storyboards, and scripts helps keep your workspace clean."
+  },
+  {
+    "label": "22-sidebar-home",
+    "url": "https://app.boords.com/",
+    "title": "Joshuah Powlowski Team • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H2",
+        "text": "Get started"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort: Date modified, newest first"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Projects 1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New project By client or campaign"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1 2 3 New storyboard Frames, images and shot notes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scene Audio / Voiceover Visual 1 2 3 4 New script Scenes, dialogue and voiceover"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nHome\nSearch workspace\nCtrl\nK\nNew\nJ\nJoshuah Powlowski Team\nHome\n/\nJoshuah Powlowski Team\nProjects\n1\nDemo Project\nEmpty\nNew project\nBy client or campaign\nGet started\n\nPick a project, then begin with a storyboard or a script.\n\n1\n2\n3\nNew storyboard\nFrames, images and shot notes\nScene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover"
+  },
+  {
+    "label": "23-modal-search-workspace",
+    "url": "https://app.boords.com/",
+    "title": "Joshuah Powlowski Team • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H2",
+        "text": "Get started"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort: Date modified, newest first"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Projects 1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New project By client or campaign"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1 2 3 New storyboard Frames, images and shot notes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scene Audio / Voiceover Visual 1 2 3 4 New script Scenes, dialogue and voiceover"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "Search workspace",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nHome\nSearch workspace\nCtrl\nK\nNew\nJ\nJoshuah Powlowski Team\nHome\n/\nJoshuah Powlowski Team\nProjects\n1\nDemo Project\nEmpty\nNew project\nBy client or campaign\nGet started\n\nPick a project, then begin with a storyboard or a script.\n\n1\n2\n3\nNew storyboard\nFrames, images and shot notes\nScene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover\nesc\nSearch projects, storyboards and scripts in Joshuah Powlowski Team\n↑↓\nto move\n↵\nto open\nSearching all of Joshuah Powlowski Team"
+  },
+  {
+    "label": "24-menu-plus-new",
+    "url": "https://app.boords.com/",
+    "title": "Joshuah Powlowski Team • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H2",
+        "text": "Get started"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "menuitem",
+        "text": "Storyboard Frames, images and shot notes"
+      },
+      {
+        "role": "menuitem",
+        "text": "Script Scenes, dialogue and voiceover"
+      },
+      {
+        "role": "menuitem",
+        "text": "Project By client or campaign"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort: Date modified, newest first"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Projects 1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New project By client or campaign"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1 2 3 New storyboard Frames, images and shot notes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scene Audio / Voiceover Visual 1 2 3 4 New script Scenes, dialogue and voiceover"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nHome\nSearch workspace\nCtrl\nK\nNew\nStoryboard\nFrames, images and shot notes\nScript\nScenes, dialogue and voiceover\nProject\nBy client or campaign\nJ\nJoshuah Powlowski Team\nHome\n/\nJoshuah Powlowski Team\nProjects\n1\nDemo Project\nEmpty\nNew project\nBy client or campaign\nGet started\n\nPick a project, then begin with a storyboard or a script.\n\n1\n2\n3\nNew storyboard\nFrames, images and shot notes\nScene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover"
+  },
+  {
+    "label": "25-popover-inbox",
+    "url": "https://app.boords.com/",
+    "title": "Joshuah Powlowski Team • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H2",
+        "text": "Get started"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open notification docs"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Change notification settings"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close inbox"
+      },
+      {
+        "role": "tab",
+        "text": "All"
+      },
+      {
+        "role": "tab",
+        "text": "Unread"
+      },
+      {
+        "role": "tab",
+        "text": "Read"
+      },
+      {
+        "role": "tab",
+        "text": "Archived"
+      },
+      {
+        "role": "BUTTON",
+        "text": "All"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Unread"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Read"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archived"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Mark all as read"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort: Date modified, newest first"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Projects 1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New project By client or campaign"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1 2 3 New storyboard Frames, images and shot notes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scene Audio / Voiceover Visual 1 2 3 4 New script Scenes, dialogue and voiceover"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Connect Slack",
+        "href": "/settings/account/notification"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nInbox\nAll\nUnread\nRead\nArchived\nAll\nUnread\nRead\nArchived\nNo notifications\nNothing needs your attention yet.\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nHome\nSearch workspace\nCtrl\nK\nNew\nJ\nJoshuah Powlowski Team\nHome\n/\nJoshuah Powlowski Team\nProjects\n1\nDemo Project\nEmpty\nNew project\nBy client or campaign\nGet started\n\nPick a project, then begin with a storyboard or a script.\n\n1\n2\n3\nNew storyboard\nFrames, images and shot notes\nScene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover"
+  },
+  {
+    "label": "26-project-demo-project",
+    "url": "https://app.boords.com/p/4x06o4-demo-project",
+    "title": "Demo Project • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Demo Project"
+      },
+      {
+        "tag": "H2",
+        "text": "Start this project"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1 2 3 New storyboard Frames, images and shot notes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scene Audio / Voiceover Visual 1 2 3 4 New script Scenes, dialogue and voiceover"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nJoshuah Powlowski Team\n/\nDemo Project\nSearch workspace\nCtrl\nK\nShare\nNew\nDemo Project\nJ\nJoshuah Powlowski Team\n/\nDemo Project\nStart this project\n\nBegin with a storyboard or a script. You can add the other any time.\n\n1\n2\n3\nNew storyboard\nFrames, images and shot notes\nScene\nAudio / Voiceover\nVisual\n1\n2\n3\n4\nNew script\nScenes, dialogue and voiceover"
+  },
+  {
+    "label": "27-settings-team-users",
+    "url": "https://app.boords.com/settings/team/manage",
+    "title": "Manage Team · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "ACTIVE TEAM MEMBERS (1) • SEATS USED (1/5)"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Full access"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Invite"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help docs"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "",
+        "placeholder": "Invite by email",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nJ\nJoshuah Powlowski Team\nFree\nInvite via link\nFull access\nInvite\nACTIVE TEAM MEMBERS (1) • SEATS USED (1/5)\nJ\n\nJoshuah Powlowski\n\npowlowskijoshuah@gmail.com\n\nOwner"
+  },
+  {
+    "label": "28-settings-team-general",
+    "url": "https://app.boords.com/settings/team/general",
+    "title": "Settings · Boords",
+    "headings": [],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Save changes"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": "",
+        "value": "✓"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": "",
+        "value": "put"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": "",
+        "value": "y_lhRJgPfVWJSVyXCVQnMT8Rjp2hkZRQzsmuamLkW7mztzzEMv"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "team[name]",
+        "placeholder": "e.g. Acme Design Inc.",
+        "value": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nTeam name\nSave changes\nTeam logo\nJ\nJPG or PNG, less than 1MB\nAI Settings\nEnable AI tools\n(Required for Script Import and Boords Agent)\nEnable Boords Agent\nEnable AI image generator"
+  },
+  {
+    "label": "29-settings-team-domain",
+    "url": "https://app.boords.com/settings/team/domain",
+    "title": "Domain · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Workspace address"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open custom domain docs"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Save"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      },
+      {
+        "text": "app.boords.com",
+        "href": "#"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "subdomain",
+        "placeholder": "companyname",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nCompany Workspace\nUpgrade Required\nGet a Custom Sharing Domain\nUpgrade to Team to access and share storyboards on a custom domain (e.g. company.boords.com).\nCompare Plans\nWorkspace address\n\nYour team and clients open everything you share at a branded address, like acme.boords.com. Existing links keep working after you change it.\n\nYour workspace will be: app.boords.com\n\nSave"
+  },
+  {
+    "label": "30-settings-team-usage",
+    "url": "https://app.boords.com/settings/team/usage",
+    "title": "Usage · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Plan limits"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Compare plans"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      },
+      {
+        "text": "Manage team",
+        "href": "/settings/team/manage"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nPlan usage\nFree plan\nCompare plans\nPlan limits\nTeam members\n5 included on this planManage team\n1 of 5\nActive storyboards\n5 included on this plan\n0 of 5"
+  },
+  {
+    "label": "31-settings-team-api",
+    "url": "https://app.boords.com/settings/team/api",
+    "title": "API keys · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "API keys"
+      },
+      {
+        "tag": "H2",
+        "text": "Webhooks"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open API docs"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create API key"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create webhook"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      },
+      {
+        "text": "verify webhook signatures",
+        "href": "https://boords.com/docs/webhooks"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": "",
+        "value": "✓"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": "",
+        "value": "oo_hLOHAcFfInpHdDSa3v8nsH-T8Py-jqWxOBu6JrC7H8GZBJE"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "token[name]",
+        "placeholder": "e.g. Zapier",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "date",
+        "name": "token[expires_at]",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "url",
+        "name": "",
+        "placeholder": "https://example.com/webhooks",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nAPI & Webhooks\nUpgrade Required\nGet API access\nUpgrade to create API keys and webhooks and connect Boords to your workflow. Every paid plan includes the API.\nCompare Plans\nAPI keys\n\nAPI keys authenticate requests to the Boords API and are scoped to your account. Create a key, copy it once, and store it somewhere safe.\n\nAPI key name\nExpiry (optional)\nCreate API key\nNo API keys yet. Create one above to get started.\nWebhooks\n\nReceive real-time notifications when events happen in your Boords account. Learn how to verify webhook signatures in the docs.\n\nEndpoint URL\nEvents\nSelect all\nProjects\nproject.created\nproject.updated\nproject.archived\nStoryboards\nstoryboard.created\nstoryboard.updated\nstoryboard.archived\nScripts\nscript.created\nscript.updated\nscript.archived\nFrames\nframe.created\nframe.updated\nframe.deleted\nComments\ncomment.created\ncomment.updated\ncomment.deleted\nCreate webhook\nNo webhooks yet. Upgrade to create one."
+  },
+  {
+    "label": "32-settings-team-connections",
+    "url": "https://app.boords.com/settings/team/connections",
+    "title": "Connections · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Pick a tool"
+      },
+      {
+        "tag": "H2",
+        "text": "Connected tools"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Send us feedback."
+      },
+      {
+        "role": "BUTTON",
+        "text": "Claude"
+      },
+      {
+        "role": "BUTTON",
+        "text": "ChatGPT"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Claude Code"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Other"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      },
+      {
+        "text": "Add to Claude",
+        "href": "https://claude.ai/directory/boords"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nConnect Claude and ChatGPT\nBETA\nMCP connections are free to use during the beta. Usage limits may apply in future. Send us feedback.\nPick a tool\n\nAsk Claude or ChatGPT to create and update your Boords projects, scripts, storyboards and frames. Each tool gets the same access you have in Boords, and you can disconnect it at any time. Boords connects over MCP, so other tools that support it work too.\n\nClaude\nChatGPT\nClaude Code\nOther\n1\nAdd Boords to Claude\nThis opens Boords in Claude's connector directory. Works on claude.ai and in the Claude desktop app.\nAdd to Claude\n2\nSign in and approve\nClick Connect in Claude, sign in to Boords, then approve access. In a Claude Team or Enterprise organization, an Owner may need to allow Boords first. If your organization blocks directory connectors, add the server URL under Other as a custom connector.\n3\nAll done\nBoords now works in every Claude chat. Try \"Turn this script into a storyboard\".\nConnected tools\nNothing connected yet. Pick a tool above to get started."
+  },
+  {
+    "label": "33-settings-account-profile",
+    "url": "https://app.boords.com/settings/account/profile",
+    "title": "Edit profile · Boords",
+    "headings": [],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Save changes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Delete account"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": "",
+        "value": "✓"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": "",
+        "value": "put"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": "",
+        "value": "wUseUp5KwhYCkLqLYPrIeytxE332LsR71yARW1zkTb6jUQgaZ8"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "user[name]",
+        "placeholder": "First & Last name",
+        "value": "Joshuah Powlowski"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "user[country]",
+        "placeholder": "",
+        "value": "SG"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "Singapore",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nName & Tax Information\nName\nCountry of Residence\nSave changes\nEmail Address\nSigns in withpowlowskijoshuah@gmail.com\nProfile Image\nJ\nJPG or PNG, less than 1MB\nAI Settings\nEnable AI tools\n(Required for Script Import and Boords Agent)\nEnable AI image generator\nDelete account\nIf you want completely, permanently delete your account and all of your data, click the link below. Please note, there is no undo!\nDelete account"
+  },
+  {
+    "label": "34-settings-billing-plan",
+    "url": "https://app.boords.com/settings/billing/plan",
+    "title": "Plan · Boords",
+    "headings": [],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "tab",
+        "text": "Monthly"
+      },
+      {
+        "role": "tab",
+        "text": "Yearly Save 33%"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Or $26/mo billed yearly →"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Or $50/mo billed yearly →"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Or $85/mo billed yearly →"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Or $165/mo billed yearly →"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Compare all features ↗"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Delete account"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      },
+      {
+        "text": "Get Solo",
+        "href": "/checkout/v2026_solo/monthly"
+      },
+      {
+        "text": "Get Pro",
+        "href": "/checkout/v2026_pro/monthly"
+      },
+      {
+        "text": "Get Team",
+        "href": "/checkout/v2026_team/monthly"
+      },
+      {
+        "text": "Get Agency",
+        "href": "/checkout/v2026_agency/monthly"
+      },
+      {
+        "text": "Talk to us",
+        "href": "https://boords.com/enterprise"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nSimple plans for your pre-production workflow\nWrite scripts, create storyboards, and get client sign-off in one place.\nMonthly\nYearly\nSave 33%\nSolo\n$\n39\n/month\nOr $26/mo billed yearly →\nSingle user\n250 AI images per month\nUnlimited storyboards & scripts\nGet Solo\nPro\nMost popular\n$\n75\n/month\nOr $50/mo billed yearly →\nUp to 5 users\n1,000 AI images per month\nEverything in Solo\nGet Pro\nTeam\n$\n125\n/month\nOr $85/mo billed yearly →\nUp to 10 users\n2,000 AI images per month\nAdvanced team controls\nGet Team\nAgency\n$\n250\n/month\nOr $165/mo billed yearly →\nUp to 30 users\n3,000 AI images per month\nPriority support\nGet Agency\nEnterprise\nCustom seat counts, signed contracts, dedicated support, and the security infrastructure your procurement team needs.\nTalk to us\nTypical response within 1 working day\nWHAT'S INCLUDED\nSingle sign-on (SAML)\nCustom AI credit pools\nMSA & DPA support\nCustom seat counts & billing terms\nDedicated support & onboarding\nAudit-grade activity trail\nCompare all features ↗\nDelete account\nIf you want completely, permanently delete your account and all of your data, click the link below. Please note, there is no undo!\nDelete account"
+  },
+  {
+    "label": "35-settings-account-security",
+    "url": "https://app.boords.com/settings/account/password",
+    "title": "Password · Boords",
+    "headings": [],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "toggle password visibility"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Save changes"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "utf8",
+        "placeholder": "",
+        "value": "✓"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "_method",
+        "placeholder": "",
+        "value": "put"
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "authenticity_token",
+        "placeholder": "",
+        "value": "lO341-XCXqLLV_jv0gWYEzee9bHKZ0jq_nytEjY_vnP-7ttDmp"
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "user[password]",
+        "placeholder": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "user[password_confirmation]",
+        "placeholder": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nAdd a password\nSigns in withpowlowskijoshuah@gmail.com\n\nAdd a password to log in with both your Google account and email/password.\n\nNew Password\nConfirm New Password\nSave changes\nTwo-Factor Authentication\nUpgrade Required\nGet Two-Factor Authentication\nUpgrade to Team to get an additional layer of security for you and your team.\nCompare Plans"
+  },
+  {
+    "label": "36-settings-account-notifications",
+    "url": "https://app.boords.com/settings/account/notification",
+    "title": "Notifications · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Email notifications"
+      },
+      {
+        "tag": "H2",
+        "text": "Inbox notifications"
+      },
+      {
+        "tag": "H2",
+        "text": "Slack DM notifications"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open notification docs"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      },
+      {
+        "text": "Install",
+        "href": "/settings/account/notification/slack/connect?install=1&team_id=1122578"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "value": "on"
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nNotifications\nEmail notifications\nNew comments on storyboards and scripts\n@mentions and replies to your comments\nInbox notifications\n\nYou always see mentions, replies, and status changes on your comments. To get every comment on a storyboard, script, or project, follow it from its bell.\n\nAuto-follow new storyboards I add\nAuto-follow new scripts I add\nSlack DM notifications\n\nGet Slack DMs for inbox notifications: mentions, replies, comment status changes, and comments on storyboards and scripts you follow.\n\nJoshuah Powlowski Team\nSlack isn't set up for this team\nInstall"
+  },
+  {
+    "label": "37-settings-account-memberships",
+    "url": "https://app.boords.com/settings/account/membership",
+    "title": "Other teams · Boords",
+    "headings": [],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nOther teams\n\nTeams you belong to that someone else owns. Open one to switch to it, or leave to give up access.\n\nYou're not part of any other teams yet. When someone invites you, their team appears here."
+  }
+]

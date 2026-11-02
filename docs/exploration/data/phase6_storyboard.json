@@ -1,0 +1,160 @@
+[
+  {
+    "label": "60-storyboard-editor-grid",
+    "url": "https://app.boords.com/storyboards/6do7mo-commercial-launch-spot",
+    "title": "Commercial Launch Spot · Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Commercial Launch Spot"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "v1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox and email notifications are on"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Open sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Attach"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Reference characters, props or locations"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Image model: GPT Image 2.5 Flare"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sketch"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Import script"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add frames"
+      },
+      {
+        "role": "BUTTON",
+        "text": "See what's possible"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Joshuah Powlowski Team",
+        "href": "/?team_id=1122578"
+      },
+      {
+        "text": "Demo Project",
+        "href": "/p/4x06o4-demo-project"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Commercial Launch Spot"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nJ\nJoshuah Powlowski Team\n/\nDemo Project\n/\nStoryboards\nCommercial Launch Spot\nv1\nDraft\nJ\nExport\nEdit\nReview\nGood evening, Joshuah\nSketch\nImport script\nAdd frames\nSee what's possible\nYour data is never used to train AI models. Boords Agent can make mistakes."
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "label": "11-app-assets",
+    "url": "https://app.boords.com/library/zNFAmwg/playground",
+    "title": "Asset Library • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Asset Library"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "tab",
+        "text": "Playground"
+      },
+      {
+        "role": "tab",
+        "text": "Library"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Dismiss Playground tip"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add reference images (0 of 4)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1:1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Image model: GPT Image 2.5 Flare"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No preset"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nAsset Library\n\nImages shared across your team’s projects.\n\nPlayground\nLibrary\n\nPlayground Generate images, type @ to reference a Library image, and save the results you like.\n\n1:1\nNo preset"
+  },
+  {
+    "label": "13-app-team",
+    "url": "https://app.boords.com/library/zNFAmwg/playground",
+    "title": "Asset Library • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Asset Library"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "menuitem",
+        "text": "Invite members"
+      },
+      {
+        "role": "menuitem",
+        "text": "Team settings"
+      },
+      {
+        "role": "menuitem",
+        "text": "Templates"
+      },
+      {
+        "role": "menuitem",
+        "text": "Help docs"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "tab",
+        "text": "Playground"
+      },
+      {
+        "role": "tab",
+        "text": "Library"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Dismiss Playground tip"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add reference images (0 of 4)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1:1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Image model: GPT Image 2.5 Flare"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No preset"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nFree\n1 member\nInvite members\nTeam settings\nTemplates\nHelp docs\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nAsset Library\n\nImages shared across your team’s projects.\n\nPlayground\nLibrary\n\nPlayground Generate images, type @ to reference a Library image, and save the results you like.\n\n1:1\nNo preset"
+  },
+  {
+    "label": "17-app-team-dropdown",
+    "url": "https://app.boords.com/library/zNFAmwg/playground",
+    "title": "Asset Library • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Asset Library"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "tab",
+        "text": "Playground"
+      },
+      {
+        "role": "tab",
+        "text": "Library"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Dismiss Playground tip"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add reference images (0 of 4)"
+      },
+      {
+        "role": "BUTTON",
+        "text": "1:1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Image model: GPT Image 2.5 Flare"
+      },
+      {
+        "role": "BUTTON",
+        "text": "No preset"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nAsset Library\n\nImages shared across your team’s projects.\n\nPlayground\nLibrary\n\nPlayground Generate images, type @ to reference a Library image, and save the results you like.\n\n1:1\nNo preset"
+  },
+  {
+    "label": "19-app-settings-statuses",
+    "url": "https://app.boords.com/settings/team/zNFAmwg/statuses",
+    "title": "Statuses · Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "DRAFT"
+      },
+      {
+        "tag": "H2",
+        "text": "IN PROGRESS"
+      },
+      {
+        "tag": "H2",
+        "text": "IN REVIEW"
+      },
+      {
+        "tag": "H2",
+        "text": "CHANGES REQUESTED"
+      },
+      {
+        "tag": "H2",
+        "text": "APPROVED"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for In progress"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for In review"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Changes requested"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add status"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Approved"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to dashboard",
+        "href": "/"
+      },
+      {
+        "text": "Back to app",
+        "href": "/"
+      },
+      {
+        "text": "Users",
+        "href": "/settings/team/manage"
+      },
+      {
+        "text": "Settings",
+        "href": "/settings/team/general"
+      },
+      {
+        "text": "Statuses",
+        "href": "/settings/team/statuses"
+      },
+      {
+        "text": "Domain",
+        "href": "/settings/team/domain"
+      },
+      {
+        "text": "Usage",
+        "href": "/settings/team/usage"
+      },
+      {
+        "text": "API & Webhooks",
+        "href": "/settings/team/api"
+      },
+      {
+        "text": "Connections",
+        "href": "/settings/team/connections"
+      },
+      {
+        "text": "Email & Profile",
+        "href": "/settings/account/profile"
+      },
+      {
+        "text": "Plan",
+        "href": "/settings/billing/plan"
+      },
+      {
+        "text": "Billing & Invoices",
+        "href": "/billing"
+      },
+      {
+        "text": "Security",
+        "href": "/settings/account/password"
+      },
+      {
+        "text": "Notifications",
+        "href": "/settings/account/notification"
+      },
+      {
+        "text": "Other Teams",
+        "href": "/settings/account/membership"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nBack to app\nJOSHUAH POWLOWSKI TEAM\nUsers\nSettings\nStatuses\nDomain\nUsage\nAPI & Webhooks\nConnections\nACCOUNT\nEmail & Profile\nPlan\nBilling & Invoices\nSecurity\nNotifications\nOther Teams\nStatuses\n\nStatuses track storyboards and scripts on their way to sign-off, across every project in this team. Each one sits in a fixed category. People viewing a share link see the category name, never your status names.\n\nDRAFT\n\nNot ready for anyone yet\n\nAdd status\nDraft\nDefault\n0 items\nIN PROGRESS\n\nBeing worked on\n\nAdd status\nIn progress\nDefault\n0 items\nIN REVIEW\n\nWaiting for feedback\n\nAdd status\nIn review\nDefault\n0 items\nCHANGES REQUESTED\n\nFeedback to act on\n\nAdd status\nChanges requested\nDefault\n0 items\nAPPROVED\n\nSigned off\n\nAdd status\nApproved\nDefault\n0 items"
+  },
+  {
+    "label": "20-app-settings-team",
+    "url": "https://app.boords.com/settings/team/zNFAmwg",
+    "title": "404 / Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Page not found (404 error)"
+      }
+    ],
+    "buttons": [],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Back to Dashboard",
+        "href": "https://app.boords.com"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Page not found (404 error)\n\nIf you're looking for a storyboard, it may have been archived or had its URL changed.\n\nBack to Dashboard"
+  },
+  {
+    "label": "21-app-settings-account",
+    "url": "https://app.boords.com/account",
+    "title": "404 / Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Page not found (404 error)"
+      }
+    ],
+    "buttons": [],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Back to Dashboard",
+        "href": "https://app.boords.com"
+      }
+    ],
+    "inputs": [],
+    "textSample": "Page not found (404 error)\n\nIf you're looking for a storyboard, it may have been archived or had its URL changed.\n\nBack to Dashboard"
+  }
+]

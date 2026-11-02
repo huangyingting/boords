@@ -1,0 +1,1196 @@
+[
+  {
+    "label": "41a-project-with-script",
+    "url": "https://app.boords.com/p/4x06o4-demo-project",
+    "title": "Demo Project • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Demo Project"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "All 1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboards 0"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scripts 1"
+      },
+      {
+        "role": "tab",
+        "text": "Grid"
+      },
+      {
+        "role": "tab",
+        "text": "Board"
+      },
+      {
+        "role": "tab",
+        "text": "List"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Grid"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Board"
+      },
+      {
+        "role": "BUTTON",
+        "text": "List"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort: Date created, newest first"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Untitled Script"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Untitled Script",
+        "href": "/scripts/y8knvy-untitled-script"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Demo Project"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nJoshuah Powlowski Team\n/\nDemo Project\nSearch workspace\nCtrl\nK\nShare\nNew\nDemo Project\nJ\nJoshuah Powlowski Team\n/\nDemo Project\nAll\n1\nStoryboards\n0\nScripts\n1\nGrid\nBoard\nList\nGrid\nBoard\nList\nNew\nUntitled Script\nScript\n2 Nov '26\nNo comments\nDraft"
+  },
+  {
+    "label": "41b-new-storyboard-blank-tab",
+    "url": "https://app.boords.com/p/4x06o4-demo-project",
+    "title": "Demo Project • Boords",
+    "headings": [
+      {
+        "tag": "H2",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "tag": "H1",
+        "text": "Demo Project"
+      },
+      {
+        "tag": "H2",
+        "text": "New storyboard\nJ\nJoshuah Powlowski Team\n/ Demo Project"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Clear selection"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Move"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Archive"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Joshuah Powlowski Team"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Assets"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Select projects"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Filter"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create a new sub-project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Search workspace Ctrl K"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Not watching this project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Demo Project"
+      },
+      {
+        "role": "BUTTON",
+        "text": "All 1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboards 0"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Scripts 1"
+      },
+      {
+        "role": "tab",
+        "text": "Grid"
+      },
+      {
+        "role": "tab",
+        "text": "Board"
+      },
+      {
+        "role": "tab",
+        "text": "List"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Grid"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Board"
+      },
+      {
+        "role": "BUTTON",
+        "text": "List"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Sort: Date created, newest first"
+      },
+      {
+        "role": "BUTTON",
+        "text": "New"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Actions for Untitled Script"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help docs"
+      },
+      {
+        "role": "tab",
+        "text": "Import Script"
+      },
+      {
+        "role": "tab",
+        "text": "Blank Storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Import Script"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Blank Storyboard"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Create Storyboard →"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Untitled Script",
+        "href": "/scripts/y8knvy-untitled-script"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Demo Project"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "storyboardName",
+        "placeholder": "Storyboard name",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "hidden",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "16x9"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "Landscape (16:9)",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\n0 items selected\nJ\nJ\nJoshuah Powlowski Team\nHome\nAssets\nActivity\nTeam\nArchive\nPROJECTS\nSelect projects\nSort\nFilter\nDemo Project\nJoshuah Powlowski Team\n/\nDemo Project\nSearch workspace\nCtrl\nK\nShare\nNew\nDemo Project\nJ\nJoshuah Powlowski Team\n/\nDemo Project\nAll\n1\nStoryboards\n0\nScripts\n1\nGrid\nBoard\nList\nGrid\nBoard\nList\nNew\nUntitled Script\nScript\n2 Nov '26\nNo comments\nDraft\nNew storyboard\nJ\nJoshuah Powlowski Team\n/ Demo Project\nImport Script\nBlank Storyboard\nImport Script\nBlank Storyboard\nName\nFrame Size\nCreate Storyboard →"
+  },
+  {
+    "label": "51-script-editor-av-table",
+    "url": "https://app.boords.com/scripts/y8knvy-untitled-script",
+    "title": "Untitled Script - Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Untitled Script"
+      },
+      {
+        "tag": "H2",
+        "text": "Script Settings"
+      },
+      {
+        "tag": "H3",
+        "text": "DISPLAY"
+      },
+      {
+        "tag": "H3",
+        "text": "COMMENTS"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "v1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Script actions"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox and email notifications are on"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboard"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Undo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Redo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Text style: Paragraph"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Bold"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Italic"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Underline"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Strike"
+      },
+      {
+        "role": "BUTTON",
+        "text": "A"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Alignment: Left"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Insert"
+      },
+      {
+        "role": "BUTTON",
+        "text": "16"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "130 WPM"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Row actions"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Add new row"
+      },
+      {
+        "role": "BUTTON",
+        "text": "PERMISSIONS"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Joshuah Powlowski Team",
+        "href": "/?team_id=1122578"
+      },
+      {
+        "text": "Demo Project",
+        "href": "/p/4x06o4-demo-project"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Untitled Script"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Total RT 0:00\nAudio words 0\n130 WPM\n\t\t\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Scene column title",
+        "value": "Scene"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Audio column title",
+        "value": "Audio / Voiceover"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Visual column title",
+        "value": "Visual"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "https://app.boords.com/sc/y8knvy"
+      },
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "",
+        "placeholder": "Add reviewer emails",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "hide_completed_comments_present",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "allow_comments_in_old_versions",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "share_with_version_number",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "share_with_version_switching",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "share_with_version_notification",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "allow_guest_downloads",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "show_word_count",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "hide_completed_comments_edit",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "is_sending_comment_emails",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nJ\nJoshuah Powlowski Team\n/\nDemo Project\n/\nScripts\nUntitled Script\nv1\nDraft\nJ\nStoryboard\nEdit\nReview\nA\n16\nTotal RT 0:00\nAudio words 0\n130 WPM\n\t\t\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\n\nScript Settings\nPassphrase\nSolo\nPERMISSIONS\nAllow comments\nHide completed\nAllow on old versions\nShow version number\nAllow guest version switching\nShow new version message\nAllow guests to download\nDISPLAY\nShow word count\nCOMMENTS\nHide completed in Edit\nEmail team members"
+  },
+  {
+    "label": "52-script-export-menu",
+    "url": "https://app.boords.com/scripts/y8knvy-untitled-script",
+    "title": "Untitled Script - Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Untitled Script"
+      },
+      {
+        "tag": "H2",
+        "text": "Script Settings"
+      },
+      {
+        "tag": "H3",
+        "text": "DISPLAY"
+      },
+      {
+        "tag": "H3",
+        "text": "COMMENTS"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Compare Plans"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      },
+      {
+        "role": "BUTTON",
+        "text": "J"
+      },
+      {
+        "role": "BUTTON",
+        "text": "v1"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Draft"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Script actions"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Inbox and email notifications are on"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "menuitem",
+        "text": "PDF"
+      },
+      {
+        "role": "menuitem",
+        "text": "Word"
+      },
+      {
+        "role": "menuitem",
+        "text": "Markdown"
+      },
+      {
+        "role": "menuitem",
+        "text": "Plain text"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Storyboard"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Undo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Redo"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Text style: Paragraph"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Bold"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Italic"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Underline"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Strike"
+      },
+      {
+        "role": "BUTTON",
+        "text": "A"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Alignment: Left"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Insert"
+      },
+      {
+        "role": "BUTTON",
+        "text": "16"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "BUTTON",
+        "text": "130 WPM"
+      },
+      {
+        "role": "BUTTON",
+        "text": "PERMISSIONS"
+      },
+      {
+        "role": "BUTTON",
+        "text": "What's new?"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Help & support"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Joshuah Powlowski Team",
+        "href": "/?team_id=1122578"
+      },
+      {
+        "text": "Demo Project",
+        "href": "/p/4x06o4-demo-project"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "H1",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Untitled Script"
+      },
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "Total RT 0:00\nAudio words 0\n130 WPM\n\t\t\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Scene column title",
+        "value": "Scene"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Audio column title",
+        "value": "Audio / Voiceover"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Visual column title",
+        "value": "Visual"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "https://app.boords.com/sc/y8knvy"
+      },
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "",
+        "placeholder": "Add reviewer emails",
+        "ariaLabel": "",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "hide_completed_comments_present",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "allow_comments_in_old_versions",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "share_with_version_number",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "share_with_version_switching",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "share_with_version_notification",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "allow_guest_downloads",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "show_word_count",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "hide_completed_comments_edit",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": "is_sending_comment_emails",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": "on"
+      }
+    ],
+    "textSample": "Plan video projects from script to sign-off →\nCompare Plans\nJ\nJ\nJoshuah Powlowski Team\n/\nDemo Project\n/\nScripts\nUntitled Script\nv1\nDraft\nJ\nPDF\nWord\nMarkdown\nPlain text\nStoryboard\nEdit\nReview\nA\n16\nTotal RT 0:00\nAudio words 0\n130 WPM\n\t\t\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\n\nScript Settings\nPassphrase\nSolo\nPERMISSIONS\nAllow comments\nHide completed\nAllow on old versions\nShow version number\nAllow guest version switching\nShow new version message\nAllow guests to download\nDISPLAY\nShow word count\nCOMMENTS\nHide completed in Edit\nEmail team members"
+  },
+  {
+    "label": "53-script-review-mode",
+    "url": "https://app.boords.com/sc/versions/y8knvy",
+    "title": "Untitled Script · Boords",
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Untitled Script"
+      },
+      {
+        "tag": "H2",
+        "text": "Comments"
+      }
+    ],
+    "buttons": [
+      {
+        "role": "BUTTON",
+        "text": "Export"
+      },
+      {
+        "role": "tab",
+        "text": "Edit"
+      },
+      {
+        "role": "tab",
+        "text": "Review"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Close sidebar"
+      },
+      {
+        "role": "tab",
+        "text": "Comments"
+      },
+      {
+        "role": "tab",
+        "text": "Share settings"
+      },
+      {
+        "role": "tab",
+        "text": "Activity"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Comments"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Share settings"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Activity"
+      },
+      {
+        "role": "BUTTON",
+        "text": "Everyone"
+      }
+    ],
+    "links": [
+      {
+        "text": "Back to edit view",
+        "href": "/scripts/y8knvy-untitled-script"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "DIV",
+        "type": "contenteditable",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "Comment field",
+        "value": ""
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "name": "",
+        "placeholder": "",
+        "ariaLabel": "",
+        "value": ""
+      }
+    ],
+    "textSample": "Untitled Script\nEdit\nReview\nTotal RT 0:00\nAudio words 0\n130 WPM\nSCENE\n\t\nAUDIO / VOICEOVER\n\t\nVISUAL\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\t\n\n\n\n\n\n\n\nComments\nShare settings\nActivity\nComments\nShare settings\nActivity\nComments\nNo comments yet. Highlight text or write below to start the conversation.\nEveryone"
+  }
+]
